@@ -162,7 +162,7 @@ Python/Pandas was used to:
 - Standardize data.
 - Create calculated sales metrics.
 - Prepare the dataset for SQL and Databricks analysis.
-![Data Cleaning & Validation](Ecommerce_Online_Sales_Analysis/images/data_transformation.png)
+![Data Cleaning & Validation](/images/data_transformation.png)
 
 2. Exploratory Data Analysis
 EDA was performed to understand:
@@ -173,12 +173,12 @@ EDA was performed to understand:
 - Geographic performance
 - Price and quantity relationships
 
-![Correlation Analysis](Ecommerce_Online_Sales_Analysis/images/heatmap.png)
+![Correlation Analysis](/images/heatmap.png)
 
 3. KPI Generation & Visual Analysis
 
 ## 3. KPI Generation & Visual Analysis
-![KPI_Generation](Ecommerce_Online_Sales_Analysis/images/kpis.png)
+![KPI_Generation](/images/kpis.png)
 
 
 | Revenue by Category | Top 5 Products | Monthly Trend |
