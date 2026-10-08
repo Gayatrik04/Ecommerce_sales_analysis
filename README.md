@@ -162,6 +162,7 @@ Python/Pandas was used to:
 - Standardize data.
 - Create calculated sales metrics.
 - Prepare the dataset for SQL and Databricks analysis.
+  
 ![Data Cleaning & Validation](/images/data_transformation.png)
 
 2. Exploratory Data Analysis
@@ -178,6 +179,7 @@ EDA was performed to understand:
 3. KPI Generation & Visual Analysis
 
 ## 3. KPI Generation & Visual Analysis
+
 ![KPI_Generation](/images/kpis.png)
 
 
